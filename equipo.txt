@@ -1,1 +1,2 @@
-Estado: completado por Persona A
+
+Estado: listo A
